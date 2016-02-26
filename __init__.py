@@ -15,7 +15,7 @@ for a :class:`~kivy.uix.button.Button` class.
 '''
 
 __all__ = ('MultichoiceToggleButtonBehavior', 'MultichoiceToggleButton')
-ewrgfwergweg
+
 from kivy.uix.button import Button
 from kivy.lang import Builder
 from kivy.uix.boxlayout import BoxLayout
